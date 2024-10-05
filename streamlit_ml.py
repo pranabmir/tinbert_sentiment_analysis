@@ -9,7 +9,7 @@ import torch
 
 
 
-local_path = 'tiny_bert_sentiment_analysis_downloaded'
+local_path = 'tiny_bert_sentiment_analysis'
 s3_prefix = 'ml_model/tiny_bert_sentiment_analysis'
 bucket_name = 'prjsentimentanalysis'
 
